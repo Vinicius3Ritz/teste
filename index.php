@@ -12,7 +12,7 @@
     </header>
     <main>
         <section id="intro">
-            <h3>História da Nintendo</h3>
+            <h3>História da Sega</h3>
             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os animes sãA Nintendo Co. Ltd., sediada em Quioto, no Japão, é responsável por séries que já se tornaram ícones em todo o mundo, através dos seus produtos de hardware e software integrados. Mario™, Donkey Kong™, The Legend of Zelda™, Metroid™, Pokémon™, Animal Crossing™, Pikmin™ e Splatoon™ são apenas algumas das mais populares neste momento.
             </p>
             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Nintendo tem como objetivo proporcionar a todos experiências de entretenimento únicas e intuitivas, fabricando e comercializando dispositivos de videojogos como a família de consolas Nintendo Switch™, desenvolvendo e operando aplicações para dispositivos móveis e colaborando com parceiros numa variedade de outras iniciativas de entretenimento, como conteúdos visuais e parques temáticos.
